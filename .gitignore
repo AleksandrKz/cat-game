@@ -1,0 +1,16 @@
+*.pdf
+*.rar
+*.stl
+*.bat 
+*.m3d
+*.bak
+*.a3d
+*.o
+*.d
+*.mk
+*.lss
+*.map
+*.srec
+Makefile
+.vs/
+Debug/
